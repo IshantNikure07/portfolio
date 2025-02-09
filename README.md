@@ -26,8 +26,8 @@ Passionate about building interactive and dynamic websites. I specialize in the 
 
 ## 📌 Projects
 
-1️⃣ **E-commerce Clothing Store 👕** (MERN Stack)
-2️⃣ **Significo 🌟** (Animated Landing Page)
+1️⃣ **E-commerce Clothing Store 👕** (MERN Stack)                          
+2️⃣ **Significo 🌟** (Animated Landing Page)        
 3️⃣ **Spotify Clone 🎵** (Music Streaming UI)
 
 📌 *More projects coming soon!*
@@ -44,6 +44,6 @@ Passionate about building interactive and dynamic websites. I specialize in the 
 ## 📫 Let's Connect!
 - **GitHub:** [github.com/ishantnikure](#)
 - **LinkedIn:** [linkedin.com/in/ishantnikure](#)
-- **Portfolio:** [https://ishantportfoliomern.netlify.app/🚀]
+- **Portfolio:** [https://ishantportfoliomern.netlify.app/]
 
 ✨ *Always open to collaboration and new opportunities!*
