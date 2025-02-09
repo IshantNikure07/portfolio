@@ -44,6 +44,6 @@ Passionate about building interactive and dynamic websites. I specialize in the 
 ## 📫 Let's Connect!
 - **GitHub:** [github.com/ishantnikure](#)
 - **LinkedIn:** [linkedin.com/in/ishantnikure](#)
-- **Portfolio:** [Coming Soon 🚀]
+- **Portfolio:** [https://ishantportfoliomern.netlify.app/🚀]
 
 ✨ *Always open to collaboration and new opportunities!*
