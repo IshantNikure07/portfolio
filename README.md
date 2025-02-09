@@ -1,8 +1,49 @@
-# React + Vite
+# 👋 Hi, I'm Ishant Nikure
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Web Developer | MERN Stack | UI/UX Enthusiast
 
-Currently, two official plugins are available:
+Passionate about building interactive and dynamic websites. I specialize in the **MERN stack** and love working on **animated, well-structured, and performance-optimized** websites.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🛠 Tech Stack
+
+### 💻 Frontend:
+- React.js ⚛️ | JavaScript 🏗️ | Tailwind CSS 🎨
+- GSAP 🌀 | Spline 3D ✨
+
+### 🖥️ Backend:
+- Node.js 🌿 | Express.js ⚡ | MongoDB 🍃
+- REST APIs 🔗 | Graph API 📊
+
+### 📊 State Management:
+- Recoil ⚛️ | context
+
+### 🛠 Tools:
+- Git & GitHub 🐙 | VS Code 🔵 |
+
+---
+
+## 📌 Projects
+
+1️⃣ **E-commerce Clothing Store 👕** (MERN Stack)
+2️⃣ **Significo 🌟** (Animated Landing Page)
+3️⃣ **Spotify Clone 🎵** (Music Streaming UI)
+
+📌 *More projects coming soon!*
+
+---
+
+## 🔥 What I'm Currently Working On
+- **Graph API + Chart.js 📈** (Data visualization)
+- **Enhancing Recoil Knowledge 🔄** (State Management)
+- **Exploring New Web Trends 🚀**
+
+---
+
+## 📫 Let's Connect!
+- **GitHub:** [github.com/ishantnikure](#)
+- **LinkedIn:** [linkedin.com/in/ishantnikure](#)
+- **Portfolio:** [Coming Soon 🚀]
+
+✨ *Always open to collaboration and new opportunities!*
