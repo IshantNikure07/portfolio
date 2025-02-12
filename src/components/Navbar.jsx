@@ -15,7 +15,7 @@ const Navbar = () => {
       <a  href='https://drive.google.com/file/d/1IxzNnKP7Vp0-auX0BY-aL_-Pl40WPlKh/view?usp=drivesdk' class="text-white bg-[#001d3d]  focus:ring-4 focus:outline-none  font-medium rounded-lg text-sm px-4 py-2 text-center  ">Resume</a>
      
   </div>
- 
+  
   </div>
 </nav>
 
